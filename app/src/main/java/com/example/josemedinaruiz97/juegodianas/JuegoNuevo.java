@@ -1,18 +1,11 @@
 package com.example.josemedinaruiz97.juegodianas;
 
-import android.graphics.Bitmap;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Paint;
-
 import com.example.josemedinaruiz97.juegodianas.currentgame.Bola;
 import com.example.josemedinaruiz97.juegodianas.currentgame.Diana;
 import com.example.josemedinaruiz97.juegodianas.currentgame.Fondo;
 import com.example.josemedinaruiz97.juegodianas.currentgame.Puntuacion;
 import com.example.josemedinaruiz97.juegodianas.generic.GameObject;
 import com.example.josemedinaruiz97.juegodianas.generic.GenericGameActivity;
-import com.example.josemedinaruiz97.juegodianas.media.Graphics;
-import com.example.josemedinaruiz97.juegodianas.media.Image;
 
 import java.util.ArrayList;
 import java.util.Random;
